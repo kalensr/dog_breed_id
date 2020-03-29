@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5020cc1b-5fc4-4cf2-8fc2-bd83a2e68e25" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZlSFBwZPKZiv1PEwiJaKg2P5bQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flask server.dog_breed_id">
+    <configuration name="layout.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/dog_breed_id/templates/layout.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="serving_template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/dog_breed_id/templates/serving_template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="dog_breed_id" type="Python.FlaskServer">
+      <module name="dog_breed_id" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.layout.html" />
+        <item itemvalue="JavaScript Debug.serving_template.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5020cc1b-5fc4-4cf2-8fc2-bd83a2e68e25" name="Default Changelist" comment="" />
+      <created>1585412082403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585412082403</updated>
+      <workItem from="1585412101078" duration="3641000" />
+      <workItem from="1585415981092" duration="311000" />
+      <workItem from="1585429684265" duration="3325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="315" y="190" width="800" height="717" key="#Intentions" timestamp="1585415170552">
+      <screen x="0" y="23" width="2560" height="999" />
+    </state>
+    <state x="315" y="190" width="800" height="717" key="#Intentions/-1440.23.1440.877/0.23.2560.999@0.23.2560.999" timestamp="1585415170552" />
+    <state x="113" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585412374891">
+      <screen x="0" y="23" width="2560" height="999" />
+    </state>
+    <state x="113" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1440.23.1440.877/0.23.2560.999@0.23.2560.999" timestamp="1585412374891" />
+    <state width="731" height="213" key="GridCell.Tab.0.bottom" timestamp="1585435191331">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1077" height="331" key="GridCell.Tab.0.bottom/-1440.23.1440.877/0.23.2560.999@0.23.2560.999" timestamp="1585415843808" />
+    <state width="731" height="213" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1585434532069" />
+    <state width="731" height="213" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1585435191331" />
+    <state width="731" height="213" key="GridCell.Tab.0.center" timestamp="1585435191330">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1077" height="331" key="GridCell.Tab.0.center/-1440.23.1440.877/0.23.2560.999@0.23.2560.999" timestamp="1585415843808" />
+    <state width="731" height="213" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1585434532068" />
+    <state width="731" height="213" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1585435191330" />
+    <state width="731" height="213" key="GridCell.Tab.0.left" timestamp="1585435191329">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1077" height="331" key="GridCell.Tab.0.left/-1440.23.1440.877/0.23.2560.999@0.23.2560.999" timestamp="1585415843807" />
+    <state width="731" height="213" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1585434532068" />
+    <state width="731" height="213" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1585435191329" />
+    <state width="731" height="213" key="GridCell.Tab.0.right" timestamp="1585435191330">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1077" height="331" key="GridCell.Tab.0.right/-1440.23.1440.877/0.23.2560.999@0.23.2560.999" timestamp="1585415843808" />
+    <state width="731" height="213" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1585434532068" />
+    <state width="731" height="213" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1585435191330" />
+    <state width="1077" height="331" key="GridCell.Tab.1.bottom" timestamp="1585415843810">
+      <screen x="0" y="23" width="2560" height="999" />
+    </state>
+    <state width="1077" height="331" key="GridCell.Tab.1.bottom/-1440.23.1440.877/0.23.2560.999@0.23.2560.999" timestamp="1585415843810" />
+    <state width="1077" height="331" key="GridCell.Tab.1.center" timestamp="1585415843809">
+      <screen x="0" y="23" width="2560" height="999" />
+    </state>
+    <state width="1077" height="331" key="GridCell.Tab.1.center/-1440.23.1440.877/0.23.2560.999@0.23.2560.999" timestamp="1585415843809" />
+    <state width="1077" height="331" key="GridCell.Tab.1.left" timestamp="1585415843808">
+      <screen x="0" y="23" width="2560" height="999" />
+    </state>
+    <state width="1077" height="331" key="GridCell.Tab.1.left/-1440.23.1440.877/0.23.2560.999@0.23.2560.999" timestamp="1585415843808" />
+    <state width="1077" height="331" key="GridCell.Tab.1.right" timestamp="1585415843809">
+      <screen x="0" y="23" width="2560" height="999" />
+    </state>
+    <state width="1077" height="331" key="GridCell.Tab.1.right/-1440.23.1440.877/0.23.2560.999@0.23.2560.999" timestamp="1585415843809" />
+    <state x="568" y="431" key="WebDeployment.AddServerDialog.v.1" timestamp="1585416488637">
+      <screen x="0" y="23" width="2560" height="999" />
+    </state>
+    <state x="568" y="431" key="WebDeployment.AddServerDialog.v.1/-1440.23.1440.877/0.23.2560.999@0.23.2560.999" timestamp="1585416488637" />
+    <state x="710" y="379" key="com.intellij.ide.util.TipDialog" timestamp="1585429693463">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="1263" y="453" key="com.intellij.ide.util.TipDialog/-1440.23.1440.877/0.23.2560.999@0.23.2560.999" timestamp="1585415993275" />
+    <state x="710" y="379" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1585429693463" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dog_breed_id$dog_breed_id.coverage" NAME="dog_breed_id Coverage Results" MODIFIED="1585437839869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
